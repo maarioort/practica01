@@ -1,5 +1,6 @@
 Proyecto iniciado
 Nueva linea de texto
+Otra línea de texto
 23-10-2026 - Revisión
 Nuevo contenido
 Modificación
